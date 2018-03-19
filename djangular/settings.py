@@ -31,7 +31,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'authentication',
     'django.contrib.sites',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -39,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'djangular.authentication',
+    'rest_framework',
+    'compressor',
 ]
 
 SITE_ID = 1
@@ -118,8 +120,18 @@ USE_L10N = True
 
 USE_TZ = True
 
+COMPRESS_ENABLED = True
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'compressor.finders.CompressorFinder',
+)
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = 'static'
+MEDIA_ROOT = 'media'
+MEDIA_URL = '/media/'
