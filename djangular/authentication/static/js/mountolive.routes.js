@@ -15,7 +15,7 @@
     $routeProvider.when('/register', {
       controller: 'RegisterController',
       controllerAs: 'vm',
-      template: require('./register.html')'
+      template: require('./register.html')
     }).otherwise('/');
   }
 })();
