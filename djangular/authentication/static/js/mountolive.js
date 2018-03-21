@@ -5,7 +5,8 @@
     .module('mountolive', [
       'mountolive.config',
       'mountolive.routes',
-      'mountolive.authentication'
+      'mountolive.authentication',
+      'mountolive.layout'
     ]);
 
   angular

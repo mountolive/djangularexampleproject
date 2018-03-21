@@ -131,6 +131,10 @@ STATICFILES_FINDERS = (
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
+
+STATICFILES_DIRS = ('/home/carmelo/djangular/djangularexampleproject'
+                    '/djangular/authentication/static',)
+
 STATIC_URL = '/static/'
 STATIC_ROOT = 'static'
 MEDIA_ROOT = 'media'
