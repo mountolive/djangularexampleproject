@@ -5,7 +5,7 @@ From: [Thinkster.io](https://thinkster.io/django-angularjs-tutorial)
 
 Complete tutorial. Did some rearrangement.
 
-##Installation
+## Installation
 
 `git clone https://github.com/mountolive/djangularexampleproject.git`
 
@@ -23,7 +23,7 @@ Complete tutorial. Did some rearrangement.
 
 `bower install`
 
-##Initialize
+## Initialize
 
 `python manage.py migrate`
 
