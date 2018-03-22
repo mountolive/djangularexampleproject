@@ -6,7 +6,10 @@
       'mountolive.config',
       'mountolive.routes',
       'mountolive.authentication',
-      'mountolive.layout'
+      'mountolive.layout',
+      'mountolive.posts',
+      'mountolive.utils',
+      'mountolive.profiles'
     ]);
 
   angular

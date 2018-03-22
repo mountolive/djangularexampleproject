@@ -39,7 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'djangular.authentication',
+    'djangular.posts',
     'rest_framework',
+    'rest_framework_nested',
     'compressor',
 ]
 
@@ -132,7 +134,7 @@ STATICFILES_FINDERS = (
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 
-STATICFILES_DIRS = ('/home/carmelo/djangular/djangularexampleproject'
+STATICFILES_DIRS = ('/home/carmelo/djangular/djangularexampleproject',
                     '/djangular/authentication/static',)
 
 STATIC_URL = '/static/'
