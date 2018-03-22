@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d0d156-f744-4ea1-bd33-faccaadc1eec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/new-post.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/post.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/posts.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/posts.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/posts.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/posts.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/profile-settings.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/profile.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/profile.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/profiles.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/snackbar.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/utils.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/templates/new-post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/templates/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/templates/posts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/templates/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/authentication/static/templates/settings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/posts/permissions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djangular/posts/serializers.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/djangular/authentication/templates/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/djangular/authentication/templates/register.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangular/authentication/static/js/mountolive.config.js" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/mountolive.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangular/authentication/static/js/mountolive.js" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/mountolive.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangular/authentication/static/js/mountolive.routes.js" afterPath="$PROJECT_DIR$/djangular/authentication/static/js/mountolive.routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangular/authentication/static/stylesheets/styles.css" afterPath="$PROJECT_DIR$/djangular/authentication/static/stylesheets/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangular/authentication/templates/scripts.html" afterPath="$PROJECT_DIR$/djangular/authentication/templates/scripts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangular/settings.py" afterPath="$PROJECT_DIR$/djangular/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangular/urls.py" afterPath="$PROJECT_DIR$/djangular/urls.py" />
-    </list>
+    <list default="true" id="f8d0d156-f744-4ea1-bd33-faccaadc1eec" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
